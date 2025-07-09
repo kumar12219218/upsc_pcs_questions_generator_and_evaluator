@@ -1,0 +1,6 @@
+question_number,question,question_type,user_answer,correct_answer,is_correct,options
+1,What is the primary function of a Gene Regulatory Network (GRN) in the human genome?,MCQ,To store genetic information,To regulate the expression of genes,False,"['To store genetic information', 'To regulate the expression of genes', 'To encode proteins', 'To repair damaged DNA']"
+2,What is the primary function of a GenAI's knowledge retrieval system?,MCQ,Data Generation,Knowledge Retrieval,False,"['Data Generation', 'Knowledge Retrieval', 'Language Understanding', 'Decision Making']"
+3,What is the primary function of a gene?,MCQ,To synthesize proteins only,To store genetic information,False,"['To synthesize proteins only', 'To store genetic information', 'To regulate gene expression', 'To convert genetic information to RNA']"
+4,What are the three primary components of a GenAI model?,MCQ,Knowledge Graph,Knowledge Graph,True,"['Knowledge Graph', 'Natural Language Processing (NLP) Module', 'Deep Learning Algorithm', 'Knowledge Retrieval Module']"
+5,What does the term 'gene' refer to in genetics?,MCQ,A segment of non-coding DNA,A functional unit of heredity,False,"['A segment of non-coding DNA', 'A trait such as eye color', 'A functional unit of heredity', 'An environmental influence on traits']"

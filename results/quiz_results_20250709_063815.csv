@@ -1,0 +1,6 @@
+question_number,question,question_type,user_answer,correct_answer,is_correct,options
+1,Which ancient city was the capital of the Inca Empire?,MCQ,Machu Picchu,Cuzco,False,"['Machu Picchu', 'Quito', 'Lima', 'Cuzco']"
+2,Which ancient civilization built the Great Pyramid of Giza?,MCQ,Egyptians,Egyptians,True,"['Egyptians', 'Greeks', 'Romans', 'Chinese']"
+3,Which ancient civilization built the Great Pyramid of Giza?,MCQ,Olympians,Egyptians,False,"['Olympians', 'Romans', 'Egyptians', 'Greeks']"
+4,Who was the leader of the Soviet Union during World War II?,MCQ,Vladimir Lenin,Joseph Stalin,False,"['Vladimir Lenin', 'Joseph Stalin', 'Leon Trotsky', 'Nikita Khrushchev']"
+5,Who was the first President of the United States?,MCQ,George Washington,George Washington,True,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'Benjamin Franklin']"
